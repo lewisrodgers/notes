@@ -69,7 +69,7 @@ To do this, the G Suite Admin needs the client ID associated with the service ac
 
 ## Where to go from here
 
-Often, you'll want to verify the DwD configuration is set up correctly. Test with this bare minimum [python script](https://github.com/lewisrodgers/codelabs/blob/master/admin-directory-api-calls/google-admin-directory.py) that can be adjusted for your own needs.
+Often, you'll want to verify the DwD configuration is set up correctly. Test with this bare minimum [python script](https://github.com/lewisrodgers/codelabs/tree/master/google-admin-sdk-api) that can be adjusted for your own needs.
 
 ## Resources
 * [Using OAuth 2.0 for Server to Server Applications](https://developers.google.com/identity/protocols/OAuth2ServiceAccount)
