@@ -1,10 +1,10 @@
 
-[overview]: img/overview.png
-[actors]: img/actors.png
-[responsibility]: img/responsibility.png
-[developer]: img/developer.png
-[gcp_admin]: img/gcp_admin.png
-[gsuite-admin]: img/gsuite_admin.png
+[overview]: img/Ha52-overview.png
+[actors]: img/Ha52-actors.png
+[responsibility]: img/Ha52-responsibility.png
+[developer]: img/Ha52-developer.png
+[gcp_admin]: img/Ha52-gcp_admin.png
+[gsuite-admin]: img/Ha52-gsuite_admin.png
 
 
 # Domain-wide delegation — a visual guide
